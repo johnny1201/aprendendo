@@ -1,0 +1,9 @@
+body{
+    background-size: 50px;
+    background-repeat: repeat-y;
+}
+body{
+    background-image: url('imagens/wallpaper005.jpg');
+    height: 98vh;
+    background-position: center center;
+}
