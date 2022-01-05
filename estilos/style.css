@@ -1,16 +1,18 @@
 
-body{
-    background-size:5px;
-    background-repeat: repeat-x;
-}
-body{
-    background-image: url('imagens/pattern001.png');
-    height: 9vh;
+body{   
+    background-image: url('../imagens/wallpaper003.jpg');
+    background-position: top, top;
+    background-size: 40vw;
+    height: 40vw;
     border: 1px solid black;
-    background-position: center center;
+   
+}
+html{
+    height: 40vw;
+    width: 30vw;
 }
 div{
-    background-image: linear-gradient(blue, cyan);
-    width: 400px;
-    height: 400px;
+    background-image: linear-gradient(blue, cyan, red);
+    height: 20vw;
+    background-image: url('../imagens/wallpaper001.jpg');
 }
