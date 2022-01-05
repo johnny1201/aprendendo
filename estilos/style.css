@@ -1,9 +1,16 @@
+
 body{
-    background-size: 50px;
-    background-repeat: repeat-y;
+    background-size:5px;
+    background-repeat: repeat-x;
 }
 body{
-    background-image: url('imagens/wallpaper005.jpg');
-    height: 98vh;
+    background-image: url('imagens/pattern001.png');
+    height: 9vh;
+    border: 1px solid black;
     background-position: center center;
+}
+div{
+    background-image: linear-gradient(blue, cyan);
+    width: 400px;
+    height: 400px;
 }
